@@ -38,14 +38,14 @@ All feature values are recoded with four significant digits.
 
 Missing attribute values: none
 
-Class distribution: 357 benign, 212 malignant
+Class distribution: 357 benign, 212 malignant.
 
 
 ## Technology used
 1.python
 2.keras
 3.google colab
-4.tensorflow
+4.tensorflow.
 
 
 
