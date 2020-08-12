@@ -51,9 +51,9 @@ Class distribution: 357 benign, 212 malignant.
 
 
 ## Technology used
-1.python
-2.keras
-3.google colab
+1.python.
+2.keras.
+3.google colab.
 4.tensorflow.
 
 
